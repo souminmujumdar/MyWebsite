@@ -1,5 +1,4 @@
-Here’s your **detailed, emoji-free, professional README** for the portfolio website.
-This is written in a way that **recruiters will see your technical and design strengths immediately** while maintaining a formal, well-structured tone.
+
 
 ---
 
